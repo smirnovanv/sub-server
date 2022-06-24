@@ -38,6 +38,8 @@ $ npm install
 # development
 $ npm run start
 
+Откроется на 5000 порту. Для соединения с базой данной, замените ссылку на базу MongoDB на свою в app.module.ts
+
 # watch mode
 $ npm run start:dev
 
